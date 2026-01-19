@@ -6,8 +6,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 
 When I'm not working with data, I enjoy reading books, doing gym workouts.
 
-## About This Portfolio Template
-
+## 🎯 Portfolio Overview & Core Analytics Skills
 This portfolio is designed to demonstrate skills in:
 - Data visualization and storytelling
 - Data modeling and analysis

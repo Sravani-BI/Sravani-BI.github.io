@@ -32,12 +32,18 @@ This portfolio is designed to demonstrate skills in:
 -	Built interactive Power BI dashboards with slicers and drill-downs to visualize trends across regions, age groups, education levels, and training programs.
 
 
-### Project Title 3 - Analysis of Data Set of E-Commerce Firm
+### Project 3 - Analysis of Data Set of E-Commerce Firm
 ***Description:** A Python-based data analysis project that uncovers sales, customer, and order fulfillment insights from an e-commerce dataset using EDA and visual analytics.*
 -	Analysed customer, order, payment, and product data to identify sales trends, delivery performance, and customer behavior using Python
 -	Created impactful visualizations to uncover insights on pricing, payment methods, product categories, and order fulfillment
 -	Created data visualizations using multiple chart types and built an Excel dashboard to summarize insights, supported by a PowerPoint presentation for clear and impactful storytelling.
 
+### Project 4 - Blinkit Grocery Sales Analysis
+***Description:** An end-to-end SQL-based analysis of Blinkit sales data to evaluate item and outlet performance, build key business KPIs, and identify revenue drivers using advanced SQL techniques.*
+-	Conducted end-to-end SQL analysis on Blinkit sales data (8,523 records) to assess item and outlet performance.
+-	Built and cleaned a relational database, standardizing inconsistent values and validating data integrity.
+-	Developed core KPIs including total sales, average sales per item, and average ratings.
+-	Performed multi-dimensional analysis using GROUP BY, window functions, and pivot tables to identify key revenue drivers.
 
 ## 🛠️ Skills
 

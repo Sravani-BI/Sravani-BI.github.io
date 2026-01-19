@@ -19,25 +19,25 @@ This portfolio is designed to demonstrate skills in:
 💼 Data Analysis & Business Intelligence Projects
 
 ### Project 1 - Indian Society Data Analysis Dashboard 
-*Description: A comprehensive SQL and Power BI analytics project that transforms NGO socio-economic data into interactive dashboards, revealing donation trends, member participation, and program impact across regions and time.*
-•	Analyzed socio-economic and operational data of an Indian society/NGO using SQL to track member participation, donations, and program effectiveness.
-•	Designed and managed a structured database, performing data cleaning, transformation, and validation to ensure accuracy and consistency.
-•	Created key performance metrics such as total contributions, beneficiary coverage, program-wise expenditure, and engagement trends using SQL aggregations.
-•	Developed interactive Power BI dashboards with filters and drill-downs to visualize trends across regions, time periods, and social programs.
+***Description:** A comprehensive SQL and Power BI analytics project that transforms NGO socio-economic data into interactive dashboards, revealing donation trends, member participation, and program impact across regions and time.*
+-	Analyzed socio-economic and operational data of an Indian society/NGO using SQL to track member participation, donations, and program effectiveness.
+-	Designed and managed a structured database, performing data cleaning, transformation, and validation to ensure accuracy and consistency.
+-	Created key performance metrics such as total contributions, beneficiary coverage, program-wise expenditure, and engagement trends using SQL aggregations.
+-	Developed interactive Power BI dashboards with filters and drill-downs to visualize trends across regions, time periods, and social programs.
 
 ### Project 2 - Women Empowerment Data Analysis 
-*Description: An end-to-end data analytics project using Python, SQL, and Power BI to measure women empowerment outcomes by analyzing participation, skill development, employment impact, and funding efficiency across regions.*
-•	Analyzed women empowerment program data using SQL and Python to evaluate participation, skill development outcomes, employment rates, and funding utilization.
-•	Cleaned and transformed raw datasets using Python (pandas, numpy) and SQL queries to handle missing values, standardize categories, and ensure data integrity.
-•	Designed a relational database and executed complex SQL queries to generate KPIs such as enrolment growth, program completion rate, employment conversion rate, and average income improvement.
-•	Built interactive Power BI dashboards with slicers and drill-downs to visualize trends across regions, age groups, education levels, and training programs.
+***Description:** An end-to-end data analytics project using Python, SQL, and Power BI to measure women empowerment outcomes by analyzing participation, skill development, employment impact, and funding efficiency across regions.*
+-	Analyzed women empowerment program data using SQL and Python to evaluate participation, skill development outcomes, employment rates, and funding utilization.
+-	Cleaned and transformed raw datasets using Python (pandas, numpy) and SQL queries to handle missing values, standardize categories, and ensure data integrity.
+-	Designed a relational database and executed complex SQL queries to generate KPIs such as enrolment growth, program completion rate, employment conversion rate, and average income improvement.
+-	Built interactive Power BI dashboards with slicers and drill-downs to visualize trends across regions, age groups, education levels, and training programs.
 
 
 ### Project Title 3 - Analysis of Data Set of E-Commerce Firm
-*A Python-based data analysis project that uncovers sales, customer, and order fulfillment insights from an e-commerce dataset using EDA and visual analytics.*
-•	Analysed customer, order, payment, and product data to identify sales trends, delivery performance, and customer behavior using Python
-•	Created impactful visualizations to uncover insights on pricing, payment methods, product categories, and order fulfillment
-•	Created data visualizations using multiple chart types and built an Excel dashboard to summarize insights, supported by a PowerPoint presentation for clear and impactful storytelling.
+***Description:** A Python-based data analysis project that uncovers sales, customer, and order fulfillment insights from an e-commerce dataset using EDA and visual analytics.*
+-	Analysed customer, order, payment, and product data to identify sales trends, delivery performance, and customer behavior using Python
+-	Created impactful visualizations to uncover insights on pricing, payment methods, product categories, and order fulfillment
+-	Created data visualizations using multiple chart types and built an Excel dashboard to summarize insights, supported by a PowerPoint presentation for clear and impactful storytelling.
 
 
 ## 🛠️ Skills
